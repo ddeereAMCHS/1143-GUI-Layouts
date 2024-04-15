@@ -1,6 +1,6 @@
 # GUI Layouts
 
-## Due: Mon 4/24 at 11:59 PM
+## Due: Thur 4/18 at 11:59 PM
 
 - Copy your code from `GuiPizza.java`
 - Make your GUI look visually appealing using at least 3 separate layout managers of at least 2 different types
